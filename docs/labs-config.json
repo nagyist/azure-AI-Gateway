@@ -785,8 +785,8 @@
       "loreaa"
     ],
     "tags": [],
-    "githubPath": "https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/self-hosted-ollama",
-    "lastCommitDate": "2026-04-17T07:57:18.624Z"
+    "githubPath": "https://github.com/nagyist/azure-AI-Gateway/tree/main/labs/self-hosted-ollama",
+    "lastCommitDate": "2026-04-18T19:09:18.360Z"
   },
   {
     "id": "semantic-caching",
